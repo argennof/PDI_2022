@@ -12,7 +12,7 @@ Repositorio de respuestas de la materia:Procesamiento de Imágenes (2022), en el
 
 
 ----   
-En este repositorio se encuentran las entregas con resultados correspondientes a la asignatura de _Exploración y curación de datos_.
+En este repositorio se encuentran las entregas con resultados correspondientes a la asignatura de _Procesamiento de Imágenes_.
 
 ## **Requerimientos - Librerías necesarias**:
    - [x] 
