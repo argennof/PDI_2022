@@ -27,7 +27,7 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
 
 # Documentación:
 Se propuso:
-   - [x] Imagenes disponibles por url o precargadas en imageio, se realizaron 4 propuestas para manipular luminancia:
+   - [x] Imagenes disponibles por url o precargadas en imageio, se trabajo sobre el cambio de espacio de color `RGB` a `YIQ`:
    ![Selección_178](https://user-images.githubusercontent.com/11649711/202180013-8537be9d-0a21-48a6-b97d-c45804dcb1f6.png)
 
   ----
