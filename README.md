@@ -41,7 +41,7 @@ Se propuso:
   ![image](https://user-images.githubusercontent.com/11649711/202180558-851294f7-580e-432a-986b-8b921fdcf76e.png)
   5.Construcción de funciones que procesan (convolución) imagenes a través de filtros: Pasabajos, Detectores de bordes, Pasabandas.
   ![image](https://user-images.githubusercontent.com/11649711/202181139-d774a910-387e-4532-a208-883a728c43b6.png)
-  6.Construcción de funciones que implementan los conceptos de morfología a una imagen en niveles de gris.
+  6.Construcción de funciones que implementan los conceptos de morfología a una imagen en niveles de gris (Erosión, Dilatación, Apertura, Cierre, Borde morfológico, Mediana, Top-hat).
   ![image](https://user-images.githubusercontent.com/11649711/202181486-4f7774ed-72bf-4f45-bf4d-14f445cabfd2.png)
 
 
